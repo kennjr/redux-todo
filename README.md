@@ -17,7 +17,7 @@ Here are some screenshots of the application.
 
 |                                Mobile screenshot 1                              |                                       Mobile screenshot 2                                  |  Mobile screenshot 3 |
 |:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:----------------------------:|
-| ![screenshot one](https://github.com/kennjr/redux-todo/blob/main/public/screenshots/mobile_screenshot_1.png?raw=true) | ![screenshot two](https://github.com/kennjr/redux-todo/blob/main/public/screenshots/mobile_screenshot_2.png?raw=true) | ![screenshot three](https://github.com/kennjr/mpesa/blob/main/public/screenshots/mobile_screenshot_3.png?raw=true)|
+| ![screenshot one](https://github.com/kennjr/redux-todo/blob/main/public/screenshots/mobile_screenshot_1.png?raw=true) | ![screenshot two](https://github.com/kennjr/redux-todo/blob/main/public/screenshots/mobile_screenshot_2.png?raw=true) | ![screenshot three](https://github.com/kennjr/redux-todo/blob/main/public/screenshots/mobile_screenshot_3.png?raw=true)|
 
 |                                Desktop screenshot 1                        |                                       Desktop screenshot 2                                    |  Desktop screenshot 3 |
 |:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------------------------------:|
